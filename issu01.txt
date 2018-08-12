@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+word word word
+>>>>>>> issu-01
 repair a bug
